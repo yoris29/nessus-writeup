@@ -46,4 +46,10 @@
 - Set the authentication method to be password
 - Enter metasploitable's username and password `msfadmin/msfadmin`
 - <img width="1401" height="681" alt="Pasted image 20250714225822" src="https://github.com/user-attachments/assets/e9105e4e-c8b8-48fe-942f-3922c72ea5d5" />
+- Save the changes and then run the scan again.
+<img width="1208" height="173" alt="image" src="https://github.com/user-attachments/assets/720a81db-7145-410b-a1a4-234c991f1239" />
+<img width="1199" height="704" alt="image" src="https://github.com/user-attachments/assets/44e1d884-dad3-463e-bda7-08ca3f2874f1" />
+- We can see that the credentialed scan has discovered even more vulnerabilities.
+
+
 
